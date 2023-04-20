@@ -22,4 +22,6 @@ Hi there, I'm Lawrence - a Python developer and founder with a passion for infor
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getorca)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun facts
-I enjoy Autocross and windsurfing. 
+I've been coding since the age of 7, when I wrote text adventure games in BASIC on my Dad's Tandy-1000.
+
+When I'm not coding, you might find me pursuing my passions for autocross and windsurfing. There's nothing quite like the rush of speed and adrenaline on the race track or catching the perfect wind and waves!
