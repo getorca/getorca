@@ -19,7 +19,7 @@ Hi there, I'm Lawrence - a Python developer and founder with a passion for infor
 - SQL - Postgres, MySQL, PGVector, Citus
 - NoSQL - ElasticSearch, MonogoDB
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getorca)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun facts
 I enjoy Autocross and windsurfing. 
