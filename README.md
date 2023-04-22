@@ -18,6 +18,9 @@ Hi there, I'm Lawrence - a Python developer and founder with a passion for infor
 - Dask
 - SQL - Postgres, MySQL, PGVector, Citus
 - NoSQL - ElasticSearch, MonogoDB
+- Kafka
+- Reddis
+- Containerization - Docker, Kubernetes, ECS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getorca)](https://github.com/anuraghazra/github-readme-stats)
 
