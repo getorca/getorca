@@ -2,9 +2,10 @@
 
 [Hugging Face](https://huggingface.co/winddude)
 
-Hi there, I'm Lawrence - a Python developer and founder with a passion for information extraction and data mining. I believe that data holds the key to unlocking valuable insights and driving informed decisions. As a developer, I strive to create powerful and efficient tools for extracting, analyzing, and visualizing data. With a focus on innovation and problem-solving, I'm constantly exploring new technologies and techniques to push the boundaries of what's possible. Join me on my journey to turn raw data into meaningful insights!
+Hi there, I'm Lawrence - a senior Python developer and founder with a passion for information extraction and data mining. I believe that data holds the key to unlocking valuable insights and driving informed decisions. As a developer, I strive to create powerful and efficient tools for extracting, analyzing, and visualizing data. With a focus on innovation and problem-solving, I'm constantly exploring new technologies and techniques to push the boundaries of what's possible. Join me on my journey to turn raw data into meaningful insights!
 
 ### 🔭 I’m currently working on
+- ML & AI research
 - Extracting finance news and generating insights with LLMs
 
 
