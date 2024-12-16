@@ -12,7 +12,7 @@ Hi there, I'm Lawrence - a senior Python developer and founder with a passion fo
 
 ### 🌱 Technical Skills & Languages
 - Python
-- Javascript & NodeJS
+- Javascript/Typescript & NodeJS
 - Python Frameworks - Django, FastAPI, Sanic
 - Cython
 - Scrapy
